@@ -1,10 +1,5 @@
 # Ecommerce App using ASP.NET Core and React
 
-Hi there,
-
-I spent some time writing one full stack project using ASP.NET Core and React with other best practices as explained below. This app was made for the sole purpose of study and fun. I hope you like it.
-
-This project was inspired by Rahul Sahay's excellent eCommerce project. Here's the [link](https://github.com/rahulsahay19/eCommerce-App) to his project.
 
 ## Project structure
 
@@ -57,4 +52,3 @@ This project was generated with [Vite](https://vitejs.dev/guide/) command. You c
 
 ### Mobile UX
 
-This project is fully mobile friendly. I used classes from TailwindCSS to facilitate the construction of my custom components, as if it were a basic version of a UI Kit. So it took a lot of time writing CSS which, while tiring, was really fun to practice.
